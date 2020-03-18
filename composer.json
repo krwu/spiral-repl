@@ -1,0 +1,16 @@
+{
+    "name": "krwu/spiral-repl",
+    "version": "1.0.0",
+    "require": {
+        "psy/psysh": "^0.10.0",
+        "spiral/core": "^1.4",
+        "spiral/boot": "^1.2",
+        "spiral/console": "^1.3",
+        "spiral/tokenizer": "^2.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Krwu\\Repl\\": "src/"
+        }
+    }
+}
