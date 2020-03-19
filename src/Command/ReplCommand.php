@@ -6,7 +6,7 @@
  */
 declare(strict_types=1);
 
-namespace Krwu\Repl;
+namespace Krwu\Repl\Command;
 
 use Psy\Configuration;
 use Psy\Shell;
